@@ -48,6 +48,15 @@ The EG-ViT project is running on a Linux 16.04 platform.
 We use two public datasets INbreast and SIIM-ACR for training and testing. The source image files of INbreast dataset can be found at [INbreast Kaggle](https://www.kaggle.com/datasets/martholi/inbreast?resource=download), and the source images of SIIM-ACR can be found at [SIIM-ACR-Gaze](https://github.com/HazyResearch/observational).
 
 
+**2. Convert DICOM file to JPG file.**
+
+Use the code [dcm_to_jpg.py]()
+
+Change your path of DICOM files and path for saving jpgs.
+
+
+
+
 # Training and Evaluation
 
 **1. Training / Evaluation on INbreast.**
