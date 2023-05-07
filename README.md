@@ -24,3 +24,8 @@ The eye-gaze points are collected and pre-processed to generate the eye-gaze hea
 We design a new eye-gaze collection system basen on a public DICOM viewer. It supports the radiologists to adjust the image freely while completing the eye-gaze data collection. We modified the source code of the project so that the software can output real-time status parameters of medical images, such as position, zoom scale, contrast parameters, etc. The code of collection system can be found at [eye-tracking-system-for-radiologists
 ](https://github.com/MoMarky/eye-tracking-system-for-radiologists/tree/main).
 
+
+# Usage
+
+**1. Create an environment.**
+
