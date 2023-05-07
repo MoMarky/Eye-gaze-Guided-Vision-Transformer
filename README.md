@@ -66,6 +66,8 @@ Function 'gen_train_test_split()' is to generate the random split of train and t
 
 You also have to change the corresponding path for data saving.
 
+We also public our processed dataset, please download it at [Baidu Netdisk](https://pan.baidu.com/s/1nLpWgE6mFOuc4gvWSylk9Q) with extract key: 'c5dt'.
+
 **4. Plot the eye-gaze heatmap.**
 
 Implemented by .\data processing\ [draw_heatmap.py]().
