@@ -31,4 +31,10 @@ We design a new eye-gaze collection system basen on a public DICOM viewer. It su
 
 `conda env create -f environment.yml`
 
+**2. Training on INbreast.**
 
+`python main_inbreast.py`
+
+**3. Training on SIIM-ACR.**
+
+`python main_siim.py`
