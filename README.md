@@ -89,3 +89,5 @@ Change the 'img_root_path', 'gaze_root_path' and 'Save root'.
 **2. Training / Evaluation on SIIM-ACR.**
 
 `python main_siim.py`
+
+**3. Note.**
