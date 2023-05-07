@@ -54,8 +54,8 @@ Use the code [dcm_to_jpg.py]()
 
 Change your path of DICOM files and path for saving jpgs.
 
-`dcm_root_path = "your dcm root path" `
-`jpg_root_path = "your saving root path" `
+`dcm_root_path = "your dcm root path" 
+jpg_root_path = "your saving root path" `
 
 
 
