@@ -31,6 +31,10 @@ We design a new eye-gaze collection system basen on a public DICOM viewer. It su
 
 `conda env create -f environment.yml`
 
+**2. Prepare the dataset.**
+We use two public datasets INbreast and SIIM-ACR for training and testing. The source image files of INbreast dataset can be found at [INbreast Kaggle](https://www.kaggle.com/datasets/martholi/inbreast?resource=download), and the source images of SIIM-ACR can be found at [SIIM-ACR-Gaze](https://github.com/HazyResearch/observational).
+
+
 **2. Training on INbreast.**
 
 `python main_inbreast.py`
