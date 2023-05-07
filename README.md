@@ -90,4 +90,4 @@ Change the 'img_root_path', 'gaze_root_path' and 'Save root'.
 
 `python main_siim.py`
 
-**3. Note.**
+
