@@ -33,7 +33,7 @@ The following descriptions all refer to the EG-ViT project. If you want to build
 
 **1. System.**
 
-The data collection system is running on a Windows 10 platform. The EG-ViT project is running on a Linux 16.04 platform. 
+The EG-ViT project is running on a Linux 16.04 platform. 
 
 **2. Create an environment.**
 
@@ -43,17 +43,17 @@ The data collection system is running on a Windows 10 platform. The EG-ViT proje
 
 # Data Processing
 
-**2. Prepare the dataset.**
+**1. Prepare the dataset.**
 
 We use two public datasets INbreast and SIIM-ACR for training and testing. The source image files of INbreast dataset can be found at [INbreast Kaggle](https://www.kaggle.com/datasets/martholi/inbreast?resource=download), and the source images of SIIM-ACR can be found at [SIIM-ACR-Gaze](https://github.com/HazyResearch/observational).
 
-For detailed data pre-pocessing, 
 
+# Training and Evaluation
 
-**2. Training on INbreast.**
+**1. Training / Evaluation on INbreast.**
 
 `python main_inbreast.py`
 
-**3. Training on SIIM-ACR.**
+**2. Training / Evaluation on SIIM-ACR.**
 
 `python main_siim.py`
