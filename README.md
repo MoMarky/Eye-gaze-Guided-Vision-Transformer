@@ -58,7 +58,15 @@ Change your path of DICOM files and path for saving jpgs.
     jpg_root_path = "your saving root path" 
 
 
-**3. Plot the eye-gase heatmap.**
+**3. Process eye-gaze data.**
+
+Implemented by .\data processing\ [process_train_test_data.py]().
+
+Function 'gen_train_test_split()' is to generate the random split of train and test split. Function 'gen_trantest_csv()' is to generate the csv file for exp_settings. 
+
+You also have to change the corresponding path for data saving.
+
+**4. Plot the eye-gaze heatmap.**
 
 Implemented by .\data processing\ [draw_heatmap.py]().
 
