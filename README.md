@@ -50,7 +50,7 @@ We use two public datasets INbreast and SIIM-ACR for training and testing. The s
 
 **2. Convert DICOM file to JPG file.**
 
-Use the code [dcm_to_jpg.py]()
+Implemented by .\data processing\[dcm_to_jpg.py]().
 
 Change your path of DICOM files and path for saving jpgs.
 
@@ -58,6 +58,17 @@ Change your path of DICOM files and path for saving jpgs.
     jpg_root_path = "your saving root path" 
 
 
+**3. Plot the eye-gase heatmap.**
+
+Implemented by .\data processing\[draw_heatmap.py]().
+
+Change the 'img_root_path', 'gaze_root_path' and 'Save root'.
+
+	img_root_path = "root path for your img"
+    gaze_root_path = "root path of gaze.csv files"
+    
+    array_save_root = r'Save root'
+    heat_map_save_root = r'Save root'
 
 # Training and Evaluation
 
