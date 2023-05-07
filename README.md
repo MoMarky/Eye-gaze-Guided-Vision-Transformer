@@ -29,6 +29,6 @@ We design a new eye-gaze collection system basen on a public DICOM viewer. It su
 
 **1. Create an environment.**
 
-'conda env create -f environment.yml'
+`conda env create -f environment.yml`
 
 
