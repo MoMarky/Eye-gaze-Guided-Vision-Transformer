@@ -1,10 +1,11 @@
 # EG-ViT: Eye-gaze-Guided-Vision-Transformer for Rectifying Shortcut Learning
 
-<div align="center">
-    <img src="/res/title.png">
-</div>
 
-This repository contains the official PyTorch training and evluation codes for EG-ViT (Eye-gaze-Guided-Vision-Transformer for Rectifying Shortcut Learning).
+This repository contains the official PyTorch training and evluation codes for our paper:
+
+Chong Ma, Lin Zhao, Yuzhong Chen, Sheng Wang, Lei Guo, Tuo Zhang, Dinggang Shen, Xi Jiang and Tianming Liu.
+
+"Eye-gaze-Guided-Vision-Transformer for Rectifying Shortcut Learning". [paper link](https://ieeexplore.ieee.org/document/10155473).
 
 
 # Pipeline
@@ -91,3 +92,16 @@ Change the 'img_root_path', 'gaze_root_path' and 'Save root'.
 `python main_siim.py`
 
 
+# Citation
+
+If you use this code, or otherwise found our work valuable, please cite:
+
+###
+    @article{ma2023eye,
+          title={Eye-gaze-guided vision transformer for rectifying shortcut learning},
+          author={Ma, Chong and Zhao, Lin and Chen, Yuzhong and Wang, Sheng and Guo, Lei and Zhang, Tuo and Shen, Dinggang and Jiang, Xi and Liu, Tianming},
+          journal={IEEE Transactions on Medical Imaging},
+          year={2023},
+          publisher={IEEE}
+        }
+      }
