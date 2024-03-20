@@ -97,11 +97,12 @@ Change the 'img_root_path', 'gaze_root_path' and 'Save root'.
 If you use this code, or otherwise found our work valuable, please cite:
 
 ###
-    @article{ma2023eye,
-          title={Eye-gaze-guided vision transformer for rectifying shortcut learning},
-          author={Ma, Chong and Zhao, Lin and Chen, Yuzhong and Wang, Sheng and Guo, Lei and Zhang, Tuo and Shen, Dinggang and Jiang, Xi and Liu, Tianming},
-          journal={IEEE Transactions on Medical Imaging},
-          year={2023},
-          publisher={IEEE}
-        }
-      }
+	@article{ma2023eye,
+	  title={Eye-Gaze-Guided Vision Transformer for Rectifying Shortcut Learning},
+	  author={Ma, Chong and Zhao, Lin and Chen, Yuzhong and Wang, Sheng and Guo, Lei and Zhang, Tuo and Shen, Dinggang and Jiang, Xi and Liu, Tianming},
+	  journal={IEEE transactions on medical imaging},
+	  volume={42},
+	  number={11},
+	  pages={3384--3394},
+	  year={2023}
+	}
