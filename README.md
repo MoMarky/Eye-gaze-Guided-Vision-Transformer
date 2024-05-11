@@ -67,7 +67,7 @@ Function 'gen_train_test_split()' is to generate the random split of train and t
 
 You also have to change the corresponding path for data saving.
 
-We also public our processed dataset, please download it at [Baidu Netdisk](https://pan.baidu.com/s/1nLpWgE6mFOuc4gvWSylk9Q) with extract key: 'c5dt'. For the INbreast dataset, we only give few examples of eye-gaze data, the rest is not yet public due to privacy reasons, but we are applying for it.
+We also public our processed dataset, please download it at [Baidu Netdisk](https://pan.baidu.com/s/1nLpWgE6mFOuc4gvWSylk9Q) with extract key: 'c5dt', or [Google Drive](https://drive.google.com/drive/folders/1hMWCnf8W8j1Xqm5I05pky7z8kfvxPUOo?usp=sharing). For the INbreast dataset, we only give few examples of eye-gaze data, the rest is not yet public due to privacy reasons, but we are applying for it.
 
 **4. Plot the eye-gaze heatmap.**
 
